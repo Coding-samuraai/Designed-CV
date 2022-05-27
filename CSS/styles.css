@@ -1,0 +1,199 @@
+body
+{
+  margin:0;
+  text-align: center;
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+.top-container
+{
+  background-color:#EAF6F6;
+  position:relative;
+  padding-top: 145px;
+  margin-bottom: 50px;
+}
+
+h1,h2
+{
+  color: #66BFBF;
+  font-size: 40px;
+  font-weight: lighter;
+}
+
+h3
+{
+  color: #11999E;
+  font-weight: bolder;
+}
+.naam
+{
+  margin: 0;
+  font-family: 'Grape Nuts',"Roboto Flex",sans-serif;
+  font-size: 5.625em;
+  font-weight:bolder;
+}
+.about
+{
+  font-family: "Roboto Flex",sans-serif;
+  margin-bottom: 12px;
+  font-size: 2.5rem;
+}
+.top-cloud,.bottom-cloud
+{
+  position: absolute;
+  width: 130px;
+}
+
+.top-cloud
+{
+  right: 25%;
+  top: 15%;
+}
+
+.bottom-cloud
+{
+  top:50%;
+  left:20%;
+}
+
+.mountain
+{
+  width: 40%;
+  position: relative;
+  top: 3px;
+}
+
+.DSA
+{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.comp
+{
+  width: 25%;
+  float:right;
+  margin-left: 30px;
+}
+
+.Dev
+{
+  float: left;
+  margin-right: 30px;
+}
+
+.projects img
+{
+  width: 26%;
+}
+
+.profile img
+{
+  width:48%;
+}
+
+.skill-row1
+{
+  text-align:left;
+  width: 50%;
+  margin: 50px auto 100px auto;
+}
+
+.skill-row2
+{
+  text-align:left;
+  width: 50%;
+  margin: 180px auto 100px auto;
+}
+
+.project-row
+{
+  text-align:left;
+  width: 50%;
+  margin: 50px auto 50px auto;
+}
+
+
+.profile
+{
+  width: 25%;
+  margin:0 auto 0 auto;
+}
+
+p
+{
+  color: black;
+  font-weight:500;
+  line-height: 1.5;
+}
+
+.btn {
+  background: #60f0f0;
+  background-image: -webkit-linear-gradient(top, #60f0f0, #459696);
+  background-image: -moz-linear-gradient(top, #60f0f0, #459696);
+  background-image: -ms-linear-gradient(top, #60f0f0, #459696);
+  background-image: -o-linear-gradient(top, #60f0f0, #459696);
+  background-image: linear-gradient(to bottom, #60f0f0, #459696);
+  -webkit-border-radius: 60;
+  -moz-border-radius: 60;
+  border-radius: 10px;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+
+}
+
+.btn:hover {
+  background: #16eef5;
+  background-image: -webkit-linear-gradient(top, #16eef5, #2fbfc4);
+  background-image: -moz-linear-gradient(top, #16eef5, #2fbfc4);
+  background-image: -ms-linear-gradient(top, #16eef5, #2fbfc4);
+  background-image: -o-linear-gradient(top, #16eef5, #2fbfc4);
+  background-image: linear-gradient(to bottom, #16eef5, #2fbfc4);
+  text-decoration: none;
+}
+
+.bottom-container
+{
+  background-color: #66BFBF;
+  margin-top: 70px;
+  padding-top: 40px;
+}
+
+.bottom-container a
+{
+  color: #11999E;
+  text-decoration: none;
+  word-spacing: 50px;
+  padding:0 25px 0;
+  font-weight: bold;
+}
+
+.bottom-container a:hover
+{
+  color: white;
+}
+
+.bottom-container p
+{
+  margin-bottom: 0;
+  padding: 10px 0 40px 0;
+}
+
+hr
+{
+  border-style: dotted;
+  border-bottom: 0;
+  border-width: 5px;
+  width: 3.8%;
+  /* #B3E8E5 */
+  border-color: #B3E8E5;
+  margin: 60px auto 60px auto;
+}
+
+.bottom-container p
+{
+  color: white;
+}
